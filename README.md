@@ -23,8 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://codesandbox.io/s/challenge-1-w2w95g)
-- Live Site URL: [Add live site URL here](https://w2w95g.csb.app/)
+- Solution URL:[https://github.com/gharewal12/fm-challenge1](https://github.com/gharewal12/fm-challenge1)
+- Live Site URL: [https://gharewal12.github.io/fm-challenge1/](https://gharewal12.github.io/fm-challenge1/)
 
 ## My process
 
