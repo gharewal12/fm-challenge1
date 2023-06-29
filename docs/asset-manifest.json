@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fm-challenge1/static/css/main.4d0f69f8.css",
+    "main.js": "/fm-challenge1/static/js/main.ff91bcd2.js",
+    "index.html": "/fm-challenge1/index.html",
+    "main.4d0f69f8.css.map": "/fm-challenge1/static/css/main.4d0f69f8.css.map",
+    "main.ff91bcd2.js.map": "/fm-challenge1/static/js/main.ff91bcd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d0f69f8.css",
+    "static/js/main.ff91bcd2.js"
+  ]
+}
